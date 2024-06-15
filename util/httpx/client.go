@@ -8,7 +8,7 @@ import (
 
 	"github.com/henvic/httpretty"
 
-	"github.com/thxcode/llama-box/util/bytex"
+	"github.com/thxcode/llm-box/util/bytex"
 )
 
 // DefaultClient is similar to the default http.Client used by the package.

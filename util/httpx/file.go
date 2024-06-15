@@ -10,7 +10,7 @@ import (
 
 	"github.com/smallnest/ringbuffer"
 
-	"github.com/thxcode/llama-box/util/bytex"
+	"github.com/thxcode/llm-box/util/bytex"
 )
 
 type SeekerFile struct {

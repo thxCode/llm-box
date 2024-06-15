@@ -16,7 +16,7 @@ import (
 
 	"golang.org/x/exp/constraints"
 
-	"github.com/thxcode/llama-box/util/osx"
+	"github.com/thxcode/llm-box/util/osx"
 )
 
 // ----------------------------------------------------------------------------

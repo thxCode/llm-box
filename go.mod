@@ -1,4 +1,4 @@
-module github.com/thxcode/llama-box
+module github.com/thxcode/llm-box
 
 go 1.22
 

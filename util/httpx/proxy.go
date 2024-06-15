@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/thxcode/llama-box/util/osx"
+	"github.com/thxcode/llm-box/util/osx"
 )
 
 var noProxies []*net.IPNet
